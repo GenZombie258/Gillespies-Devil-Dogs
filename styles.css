@@ -1,0 +1,50 @@
+.flexbox-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: end;
+}
+    
+
+.flexbox-item-1 {
+    display: flex;
+    order: 2;
+    margin: 10px;
+    
+    
+}
+
+.flexbox-item-2 {
+    display: flex;
+    order: 1;
+    margin-right: 420px;
+    color: #6b0000;
+    background-color: #b8ff65;
+    margin-bottom: 400px;
+    border-radius: 25px;
+}
+
+.flexbox-item-3 {
+    display: flex;
+    order: 3;
+}
+
+
+.hot-dog {
+    display: flex;
+    max-width: 500px;
+    max-height: 500px;
+    
+}
+
+.background {
+    background-color: #ecb346;
+}
+
+.txt-color {
+    color: #b23232;
+}
+
+.h-color {
+    color: #2f0000;
+}
+
